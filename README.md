@@ -1,5 +1,5 @@
 # Javascript Frameworks
 * [React](https://github.com/AUIArafat/javascript-frameworks/blob/master/reactJS.txt)
-* Angular
-* Vue.js
+* [Angular](https://github.com/AUIArafat/javascript-frameworks/blob/master/angularJS.txt)
+* [Vue.js](https://github.com/AUIArafat/javascript-frameworks/blob/master/angularJS.txt)
 * Node.js
